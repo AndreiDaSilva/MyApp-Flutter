@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.andreidasilva.app.myapp">
+    package="com.andreirobson.cursoflutter.myapp_flutter">
    <application
-        android:label="myapp"
+        android:label="myapp_flutter"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
